@@ -1,0 +1,49 @@
+.logo-position {
+	position: absolute;
+    margin: auto;
+    z-index: 100;
+    border-radius: 10%;
+}
+
+.tags main {
+	max-width: 500px ; 
+	margin: 0 auto;
+	padding: 0 30px;
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #bbb;
+
+}
+  
+.tags main h1 {
+	margin-bottom: 20px !important;
+  	font-size: 20px !important;
+	font-weight: 300 !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+	letter-spacing: 5px !important;
+	color: #bbb !important;
+
+}
+
+.tags main p {
+	margin-top: 10px !important;
+	font-size: 10px !important;
+	font-weight: bold !important;
+	color: #71ccd5 !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+	letter-spacing: 1px !important;
+}
+  
+.tags main h1 span {
+	border: 2px solid #f90606;
+    padding: 3px 2px 3px 7px;
+    border-radius: 6px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+    
